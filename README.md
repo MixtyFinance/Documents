@@ -51,11 +51,11 @@ Automated service auditing and smart contracts To achieve an automatic review of
 Mixty Finance is a decentralized currency built on Ethereum open-source blockchain which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi. Mixty Finance focuses on user privacy, anonymity, and maintaining sovereignty over your wealth Mixty Finance is a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardizing communication between them to create and execute complex financial transactions while championing Privacy, Anonymity, and Sovereignty. Whether it’s switching between multiple lending protocols, trading through multiple decentralized exchanges, or utilizing numerous base layer chains, Mixty Finance plans to be at the center of it all.
 
 ### Key Features 
-Community-Driven 
+- Community-Driven 
 A Community that has its agenda of making its own decisions based on what would benefit the Token, but what matters is the community and what they want.
-Liquidity 
+- Liquidity 
 Integrate our smart contracts into wallets, exchanges, and other service providers.
-Derivatives 
+- Derivatives 
 Utilize and execute DeFi derivatives instantly with full transparency across your open trade positions. Automated Yield Maximize yield earning from our sophisticated arbitrage strategies. Defi Swap Allow User to Create Exchange, add Liquidity, and Swap.
 
 
