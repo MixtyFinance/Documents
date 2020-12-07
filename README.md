@@ -1,6 +1,3 @@
-# Economic White Paper
-
-
 ## INTRODUCTION
 The Decentralized Finance (DeFi) industry today consists mainly of the decentralized exchange of digital assets as well as the over-collateralization of digital assets to provide lending services. However, compared to mainstream financial services, it is evident that due to the lack of service mechanisms, there
 are still limitations in the allocation of resources to users.
