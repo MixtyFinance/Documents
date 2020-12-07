@@ -40,10 +40,6 @@ The digitization of certain types of assets requires on-chain confirmation of a 
 - Regulatory compliance
 If DeFi expands the service scope and category of the service group, compliance will become an important requirement, which will involve considering the needs of relevant assets or the service element review of relevant users. In addition to a risk control mechanism, Financial service-based DeFi must integrate the verification of service elements in a decentralized manner.  Verification of service elements can not be carried out using a traditional centralized mechanism with centralized storage and manual review. In the case of Financial service-based DeFi, the risk control mechanism and service elements require the introduction of two important decentralized mechanisms. 
 
-User self-sovereign with decentralized collaboration. Since there is no centralized intermediary or review organization in DeFi, all financial services require users to self-manage and authorize their actions. From the protocol point of view, financial service collaboration mechanisms, decentralized financial product, verifiable credentials, and data collaboration mechanisms seem to be the appropriate set of Decentralized Financial Service ( DFS ).
-
-Automated service auditing and smart contracts To achieve an automatic review of service elements without manual intervention, it is necessary to automatically quantify service elements through smart contracts. Therefore, various qualitative service elements must be quantitatively processed, such as integration with a service score system. In addition, many service factors also come from centralized data sources. In certain scenarios, Oracles may need to be used as a credible mechanism for the introduction of this external data.
-
 ### What Is Mixty Finance? 
 Mixty Finance is a decentralized currency built on Ethereum open-source blockchain which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi. Mixty Finance focuses on user privacy, anonymity, and maintaining sovereignty over your wealth Mixty Finance is a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardizing communication between them to create and execute complex financial transactions while championing Privacy, Anonymity, and Sovereignty. Whether it’s switching between multiple lending protocols, trading through multiple decentralized exchanges, or utilizing numerous base layer chains, Mixty Finance plans to be at the center of it all.
 
@@ -55,4 +51,22 @@ Integrate our smart contracts into wallets, exchanges, and other service provide
 - Derivatives 
 Utilize and execute DeFi derivatives instantly with full transparency across your open trade positions. Automated Yield Maximize yield earning from our sophisticated arbitrage strategies. Defi Swap Allow User to Create Exchange, add Liquidity, and Swap.
 
+## Ecosystem
+
+Mixty Finance is powering open finance through our ecosystem of cross-chain protocols, exchanges, and applications that are the legos to build the next-generation of DeFi.
+
+Discover a growing array of next-generation tools, protocols, and applications in our innovation playground.
+
+
+- Mixty Swap - High-Speed and 0 GAS! Next-Generation Protocol for DEX, the first AMM DEX running on Ethereum L2, supported by Mixty Finance and Cross-Chain Asset Protocol ShuttleFlow.
+
+- MixtyDex - A decentralized order-book exchange powered by Conflux Network using BoomFlow and MatchFlow.
+
+- MixtyPortal - Interact with Mixty Finance and manage assets using a simple browser-based wallet that unlocks the power of the blockchain on your computer.
+
+- Mixty Bounty - Participate in growing Mixty Finance through joining our community events, building integrations with other applications, and more.
+
+User self-sovereign with decentralized collaboration. Since there is no centralized intermediary or review organization in DeFi, all financial services require users to self-manage and authorize their actions. From the protocol point of view, financial service collaboration mechanisms, decentralized financial product, verifiable credentials, and data collaboration mechanisms seem to be the appropriate set of Decentralized Financial Service ( DFS ).
+
+Automated service auditing and smart contracts To achieve an automatic review of service elements without manual intervention, it is necessary to automatically quantify service elements through smart contracts. Therefore, various qualitative service elements must be quantitatively processed, such as integration with a service score system. In addition, many service factors also come from centralized data sources. In certain scenarios, Oracles may need to be used as a credible mechanism for the introduction of this external data.
 
