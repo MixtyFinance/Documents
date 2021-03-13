@@ -60,7 +60,7 @@ Discover a growing array of next-generation tools, protocols, and applications i
 
 - Mixty Swap - High-Speed and 0 GAS! Next-Generation Protocol for DEX, the first AMM DEX running on Ethereum L2, supported by Mixty Finance and Cross-Chain Asset Protocol ShuttleFlow.
 
-- MixtyDex - A decentralized order-book exchange powered by Conflux Network using BoomFlow and MatchFlow.
+- MixtyDex - A decentralized order-book exchange powered by Binance Smart Chain
 
 - MixtyPortal - Interact with Mixty Finance and manage assets using a simple browser-based wallet that unlocks the power of the blockchain on your computer.
 
